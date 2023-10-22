@@ -59,7 +59,7 @@ Automation RegisterPage
     #maximize browser window
     input text    //*[@id="basicBootstrapForm"]/div[1]/div[1]/input    Kittuchowdary
     sleep   2
-    input text    //*[@id="basicBootstrapForm"]/div[1]/div[2]/input    gannamani
+
     sleep   2
     input text    //*[@id="basicBootstrapForm"]/div[2]/div/textarea    Dommeru
     sleep   2
